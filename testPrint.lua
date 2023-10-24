@@ -1,1 +1,1 @@
-p
+print("hi world")
